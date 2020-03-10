@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="601afca5-a9f8-4cad-a1fd-360f104cba11" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="83" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YQzAtspCLyfBGKE9rLd6jL9h7M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.java.javaassignment" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainClass">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.javaassignment.MainClass" />
+      <module name="javaAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.javaassignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in javaAssignment (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in javaAssignment (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in javaAssignment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PossiblePhoneNumbersTest.checkForValidPhoneNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.javaassignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java.javaassignment" />
+      <option name="MAIN_CLASS_NAME" value="com.java.javaassignment.PossiblePhoneNumbersTest" />
+      <option name="METHOD_NAME" value="checkForValidPhoneNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="JUnit.All in javaAssignment" />
+        <item itemvalue="JUnit.PossiblePhoneNumbersTest.checkForValidPhoneNumbers" />
+        <item itemvalue="JUnit.All in javaAssignment (3)" />
+        <item itemvalue="JUnit.All in javaAssignment (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="601afca5-a9f8-4cad-a1fd-360f104cba11" name="Default Changelist" comment="" />
+      <created>1582889466004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582889466004</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582906343192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582906343192" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1582892912168">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1582892912168" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1582904039654">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582904039654" />
+    <state x="566" y="272" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582899985277">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="272" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1582899985277" />
+    <state x="133" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582896839138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="133" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1582896839138" />
+    <state x="549" y="139" key="FileChooserDialogImpl" timestamp="1582906565281">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="139" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582906565281" />
+    <state width="1493" height="266" key="GridCell.Tab.0.bottom" timestamp="1583866155312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="266" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583866155312" />
+    <state width="1493" height="266" key="GridCell.Tab.0.center" timestamp="1583866155312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="266" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583866155312" />
+    <state width="1493" height="266" key="GridCell.Tab.0.left" timestamp="1583866155312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="266" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583866155312" />
+    <state width="1493" height="266" key="GridCell.Tab.0.right" timestamp="1583866155312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="266" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583866155312" />
+    <state x="93" y="93" width="1350" height="638" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582901190412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1582901190412" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1583771191541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583771191541" />
+    <state x="562" y="103" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582902255626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="103" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1582902255626" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/javaAssignment$All_in_javaAssignment__3_.ic" NAME="All in javaAssignment (3) Coverage Results" MODIFIED="1582901403592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/javaAssignment$All_in_javaAssignment.ic" NAME="All in javaAssignment Coverage Results" MODIFIED="1582905934911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/javaAssignment$All_in_javaAssignment__2_.ic" NAME="All in javaAssignment (2) Coverage Results" MODIFIED="1582900828187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/javaAssignment$All_in_javaAssignment__1_.ic" NAME="All in javaAssignment (1) Coverage Results" MODIFIED="1582901192334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/javaAssignment$NumberPartsDivisionTest.ic" NAME="NumberPartsDivisionTest Coverage Results" MODIFIED="1582900764364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.java.javaassignment.*</FILTER>
+    </SUITE>
+  </component>
+</project>
